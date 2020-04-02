@@ -1,6 +1,6 @@
 package b
 
-import "gitlab.com/ethan.reesor/contrib/golang-issue/a"
+import "github.com/firelizzard18/golang-issue/a"
 
 func Test() {
 	a.DoesNotExist()

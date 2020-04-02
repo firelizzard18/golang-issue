@@ -1,3 +1,3 @@
-module gitlab.com/ethan.reesor/contrib/golang-issue
+module github.com/firelizzard18/golang-issue
 
 go 1.13
